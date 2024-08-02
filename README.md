@@ -59,3 +59,4 @@ Here are a few ways you can use the `!review` command:
 Elevate your collaboration game with Git-Discord and streamline your GitHub projects within your Discord community. Enhance productivity, foster communication, and supercharge your development experience. 🚀🔗🗨️
 
 Get started now and let Git-Discord redefine your GitHub-Discord synergy!
+
